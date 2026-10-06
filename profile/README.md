@@ -1,12 +1,16 @@
 Radhakundah Institute (Nepal)
-Research Organization Registry (ROR): https://ror.org/01v9m3r93  Website: https://radhakundah.com  Location: Kathmandu, Nepal
+Research Organization Registry (ROR): https://ror.org/01v9m3r93
+Website: https://radhakundah.com  
+Location: Kathmandu, Nepal
 
 🏛️ About Us
+
 Radhakundah Institute is an independent research institute and knowledge organization based in Kathmandu, Nepal. We advance evidence-based research, policy dialogue, education, technology, culture, and sustainable development initiatives that contribute to national and global progress.
 Our mission is to generate actionable knowledge, support informed decision-making, preserve intellectual traditions, and empower the next generation of researchers, innovators, and community leaders.
 Committed to the principles of Open Science, transparency, and research integrity, we foster collaboration among scholars, universities, policymakers, communities, and international partners.
 
 🌏 Areas of Interest
+
 * Public Policy and Governance 
 * Education and Human Development 
 * Language Preservation and Cultural Studies 
@@ -45,9 +49,13 @@ Radhakundah Institute welcomes collaboration with:
 We are actively pursuing research partnerships, institutional affiliations, joint publications, internship programs, and knowledge-sharing initiatives.
 
 📬 Contact
+
 Radhakundah Institute (Nepal)  Kathmandu, Nepal  
-Website: https://radhakundah.com  
+
+Website: https://radhakundah.com 
+
 ROR: https://ror.org/01v9m3r93 
+
 Email: info@radhakundah.com
 
 Radhakundah Institute (Nepal) is officially recognized in the Research Organization Registry (ROR) under ROR ID 01v9m3r93, strengthening its presence within the global research ecosystem and supporting international collaboration, publication, and research visibility.
