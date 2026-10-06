@@ -17,11 +17,13 @@ Committed to the principles of Open Science, transparency, and research integrit
 * Indigenous Knowledge and Wisdom Traditions 
 
 🧑‍🔬 Research and Innovation
+
 Radhakundah Institute supports multidisciplinary research projects, policy briefs, technical reports, scholarly publications, capacity-building programs, and collaborative initiatives.
 Our researchers and collaborators contribute to national and international discussions through evidence-based analysis, publications, conferences, workshops, and community engagement activities.
 We encourage the involvement of students, emerging researchers, academics, and professionals in meaningful research that creates measurable impact.
 
 📚 Open Science Commitment
+
 We are committed to:
 * Open and transparent research practices 
 * Ethical research standards 
@@ -31,6 +33,7 @@ We are committed to:
 Where appropriate, research outputs are archived and shared through recognized scholarly and digital repositories to improve accessibility and long-term discoverability.
 
 🤝 Partnerships and Collaboration
+
 Radhakundah Institute welcomes collaboration with:
 * Universities and Academic Institutions 
 * Government Agencies and Policy Bodies 
@@ -38,10 +41,11 @@ Radhakundah Institute welcomes collaboration with:
 * Development Partners and NGOs 
 * International Organizations 
 * Technology and Innovation Communities 
+
 We are actively pursuing research partnerships, institutional affiliations, joint publications, internship programs, and knowledge-sharing initiatives.
 
 📬 Contact
 Radhakundah Institute (Nepal)  Kathmandu, Nepal  Website: https://radhakundah.com  ROR: https://ror.org/01v9m3r93  Email: director@radhakundah.com
 
-Radhakundah Institute (Nepal) is officially recognized in the Research Organization Registry (ROR) under ROR ID 01v9m3r93, strengthening its presence within the global research ecosystem and supporting international collaboration, publication, and research visibility., and research visibility.**
+Radhakundah Institute (Nepal) is officially recognized in the Research Organization Registry (ROR) under ROR ID 01v9m3r93, strengthening its presence within the global research ecosystem and supporting international collaboration, publication, and research visibility.
 
