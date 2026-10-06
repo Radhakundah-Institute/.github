@@ -45,7 +45,10 @@ Radhakundah Institute welcomes collaboration with:
 We are actively pursuing research partnerships, institutional affiliations, joint publications, internship programs, and knowledge-sharing initiatives.
 
 📬 Contact
-Radhakundah Institute (Nepal)  Kathmandu, Nepal  Website: https://radhakundah.com  ROR: https://ror.org/01v9m3r93  Email: director@radhakundah.com
+Radhakundah Institute (Nepal)  Kathmandu, Nepal  
+Website: https://radhakundah.com  
+ROR: https://ror.org/01v9m3r93 
+Email: info@radhakundah.com
 
 Radhakundah Institute (Nepal) is officially recognized in the Research Organization Registry (ROR) under ROR ID 01v9m3r93, strengthening its presence within the global research ecosystem and supporting international collaboration, publication, and research visibility.
 
