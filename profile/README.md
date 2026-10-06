@@ -1,6 +1,9 @@
 Radhakundah Institute (Nepal)
+
 Research Organization Registry (ROR): https://ror.org/01v9m3r93
-Website: https://radhakundah.com  
+
+Website: https://radhakundah.com 
+
 Location: Kathmandu, Nepal
 
 🏛️ About Us
